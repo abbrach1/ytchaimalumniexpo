@@ -16,8 +16,8 @@
     "ios": {
       "supportsTablet": false,
       "bundleIdentifier": "toraschaim.ytcalumni1",
-      "buildNumber": "1",
       "infoPlist": {
+        "ITSAppUsesNonExemptEncryption": false,
         "UIBackgroundModes": ["audio", "remote-notification"],
         "NSMicrophoneUsageDescription": "This app requires microphone access for audio playback controls.",
         "NSCameraUsageDescription": "This app may use the camera for profile photos.",
